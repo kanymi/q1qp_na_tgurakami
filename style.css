@@ -466,6 +466,12 @@
     border-radius: 10px;
     padding: 2vh;
     margin: 1vh;
+    transition: 0.2s;
+}
+
+.msbg-text a:hover{
+    font-size: 1.15em;
+    transition: 0.2s;
 }
 
 /* page 8: about us */
